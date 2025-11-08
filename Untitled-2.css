@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historia del Tecnecio</title>
+    <style>
+        body {
+            background-color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333333;
+        }
+        header {
+            background-color: #4a4a4a;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        section {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        h1, h2 {
+            color: #2b2b2b;
+        }
+        .info {
+            background-color: #f4f4f4;
+            border-left: 5px solid #4a4a4a;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        ul {
+            line-height: 1.8;
+        }
+        footer {
+            background-color: #4a4a4a;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 40px;
+        }
+        img {
+            width: 100%;
+            max-width: 400px;
+            display: block;
+            margin: 15px auto;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tecnecio (Tc)</h1>
+        <p>El primer elemento creado por el ser humano</p>
+    </header>
+
+    <section>
+        <h2>Historia del Tecnecio</h2>
+        <div class="info">
+            <p>El tecnecio fue el primer elemento químico producido artificialmente. Su nombre proviene del griego <em>technetos</em>, que significa “artificial”.</p>
+            <p>Fue descubierto en 1937 por los científicos italianos Emilio Segrè y Carlo Perrier, quienes lo obtuvieron a partir de restos de molibdeno bombardeados con deuterones en un acelerador de partículas.</p>
+        </div>
+
+        <h2>Características Principales</h2>
+        <ul>
+            <li><strong>Símbolo químico:</strong> Tc</li>
+            <li><strong>Número atómico:</strong> 43</li>
+            <li><strong>Masa atómica:</strong> 98 u (aproximada, ya que no tiene isótopos estables)</li>
+            <li><strong>Punto de fusión:</strong> 2157 °C</li>
+            <li><strong>Punto de ebullición:</strong> 4265 °C</li>
+            <li><strong>Densidad:</strong> 11 g/cm³</li>
+            <li><strong>Color:</strong> Gris metálico</li>
+            <li><strong>Estado natural:</strong> Radiactivo</li>
+        </ul>
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Technetium.jpg" alt="Muestra metálica de tecnecio">
+
+        <h2>Usos del Tecnecio</h2>
+        <p>Aunque es radiactivo y escaso, el tecnecio tiene aplicaciones muy importantes, sobre todo en el campo de la medicina nuclear. Algunos de sus usos más destacados son:</p>
+        <ul>
+            <li>Diagnóstico médico mediante gammagrafías (por ejemplo, el isótopo Tc-99m).</li>
+            <li>Estudios del flujo sanguíneo y del funcionamiento del corazón.</li>
+            <li>Investigaciones científicas sobre la corrosión de metales.</li>
+        </ul>
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Technetium_Model.jpg" alt="Modelo atómico del tecnecio">
+
+        <h2>Dato Curioso</h2>
+        <div class="info">
+            <p>El tecnecio no existe de forma natural en la Tierra en cantidades apreciables. Todos los átomos que se encuentran son restos radiactivos o provienen de laboratorios y reactores nucleares. Su isótopo más usado, el <strong>Tc-99m</strong>, se utiliza cada día en millones de estudios médicos alrededor del mundo.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 Historia del Tecnecio | Creado por Gaby</p>
+    </footer>
+</body>
+</html>

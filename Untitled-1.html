@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historia del Tecnecio</title>
+    <style>
+        body {
+            background-color: #0e0e1a; /* Fondo oscuro azulado */
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .historia-elemento {
+            max-width: 800px;
+            margin: 40px auto;
+            color: #e5e5f7; /* Texto gris azulado claro */
+        }
+
+        .titulo-cuadro {
+            background: linear-gradient(135deg, #3a3a6a, #5f5fb3, #7a6ff0); /* Azul-violeta metálico */
+            padding: 20px 30px;
+            border-radius: 12px 12px 0 0;
+            text-align: center;
+            font-weight: bold;
+            font-size: 1.8rem;
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            color: #ffffff;
+            text-shadow: 0 1px 5px rgba(0,0,0,0.6);
+            box-shadow: 0 3px 8px rgba(0,0,0,0.5);
+        }
+
+        .texto-cuadro {
+            background: linear-gradient(180deg, #1c1c2b, #2a2a40);
+            padding: 25px 30px;
+            border-radius: 0 0 12px 12px;
+            font-size: 1.1rem;
+            line-height: 1.7;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+            border: 1px solid #555583;
+            margin-bottom: 60px;
+        }
+
+        p {
+            margin-bottom: 18px;
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- HISTORIA DEL TECNECIO -->
+    <section class="historia-elemento">
+        <div class="titulo-cuadro">
+            <h2>Historia del Tecnecio</h2>
+        </div>
+        <div class="texto-cuadro">
+            <p>
+                El tecnecio, con símbolo Tc y número atómico 43, fue el primer elemento químico producido artificialmente por el ser humano. Su nombre proviene del griego <em>“technetos”</em>, que significa “artificial”. Fue descubierto en 1937 por los científicos italianos Carlo Perrier y Emilio Segrè al analizar restos de molibdeno bombardeado con deuterones en un ciclotrón.
+            </p>
+            <p>
+                Aunque Mendeleiev había predicho su existencia en 1871 y lo llamó provisionalmente “eka-manganeso”, el elemento permaneció ausente de la naturaleza debido a su inestabilidad. Todos sus isótopos son radiactivos, y el más estable, el <sup>99</sup>Tc, tiene una vida media de unos 211.000 años.
+            </p>
+            <p>
+                En el siglo XX, el tecnecio adquirió gran importancia en la medicina nuclear. Su isótopo <sup>99m</sup>Tc (tecnecio metaestable) se utiliza ampliamente en diagnósticos médicos por imagen, ya que emite radiación gamma útil para detectar enfermedades sin causar daño significativo al paciente.
+            </p>
+            <p>
+                Además, el tecnecio se ha empleado en investigaciones sobre corrosión y como componente en aleaciones resistentes a la oxidación. A pesar de ser raro en la Tierra, se ha detectado en estrellas, lo que demuestra que se forma naturalmente durante reacciones nucleares en el espacio.
+            </p>
+            <p>
+                El tecnecio simboliza el inicio de la era de los elementos sintéticos y continúa siendo un pilar en la ciencia moderna, especialmente en la medicina y la física nuclear.
+            </p>
+        </div>
+    </section>
+
+</body>
+</html>
